@@ -30,3 +30,6 @@ git add .
 git commit -m  "เพิ่ม Filter Animations"
 git add .
 git commit -m "เชื่อมต่อ JavaScript" 
+git add .
+git commit -m "readme"
+git push 
